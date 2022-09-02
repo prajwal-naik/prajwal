@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Prajwal's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate and dedicated engineer who strives to achieve perfection in every software he builds",
   og: {
     title: "Prajwal Naik Portfolio",
     type: "website",
@@ -21,11 +21,11 @@ const seo = {
 const greeting = {
   title: "Prajwal Naik",
   logo_name: "PrajwalNaik",
-  currentPosition: "Systems/Software Engineer at Hewlett Packard Enterprise",
+  currentPosition: "Systems/Software Engineer @ Hewlett Packard Enterprise",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate and dedicated engineer who strives to achieve perfection in every line of code. Given a task, rest assured, it's in good hands.",
   resumeLink:
-    "https://docs.google.com/document/d/1jjilX0wjA81TCIWfh8SvZeJ1nt2eJizDkpvyKc4qAl0/edit?usp=sharing",
+    "https://drive.google.com/file/d/16vWV1ZB5Vue-ctIP-RwaBBJcnyhl46Hb/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/prajwal-naik",
 };

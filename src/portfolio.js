@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Prajwal Naik",
   logo_name: "PrajwalNaik",
-  currentPosition: "R&D Intern at Hewlett Packard Enterprise",
+  currentPosition: "Systems/Software Engineer at Hewlett Packard Enterprise",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -432,6 +432,21 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
+      title: "Employment",
+      experiences: [
+        {
+          title: "Systems/Software Engineer I",
+          company: "Hewlett Packard Interprise",
+          company_url: "https://www.hpe.com/us/en/home.html/",
+          logo_path: "hpe.png",
+          duration: "August 2022 - Present",
+          location: "Bangalore, Karnataka",
+          description: "Working on automation and 5G deployment tech stack.",
+          color: "#00b389",
+        },
+      ],
+    },
+    {
       title: "Internships",
       experiences: [
         {
@@ -439,7 +454,7 @@ const experience = {
           company: "Hewlett Packard Interprise",
           company_url: "https://www.hpe.com/us/en/home.html/",
           logo_path: "hpe.png",
-          duration: "January 2022 - Present",
+          duration: "January 2022 - August 2022",
           location: "Bangalore, Karnataka",
           description: "Working on 5G and cloud deployment technologies.",
           color: "#00b389",
@@ -487,8 +502,8 @@ const experience = {
           company: "Project Sitara Foundation",
           company_url: "https://projectsitara.org/",
           logo_path: "psf.png",
-          duration: "September 2021 - Present",
-          location: "bangalore, India",
+          duration: "September 2021 - December 2021",
+          location: "Bangalore, India",
           description:
             "Project Sitara Foundation is a not-profit organisation working towards enabling children from underserved communities in Karnataka, India to become self-sufficient.",
           color: "#4285F4",

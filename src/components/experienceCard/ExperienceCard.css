@@ -10,6 +10,12 @@
   margin: 10px;
 }
 
+.experience-card-logo-div:hover {
+  scale: 105%;
+  transition: all;
+  transition-duration: 300ms;
+}
+
 .experience-card-body-div {
   width: 100%;
 }
@@ -115,9 +121,6 @@
 
   .experience-card-logo {
     width: 100px;
-  }
-
-  .experience-card-body-div {
   }
 
   .experience-card-heading-left {

@@ -14,7 +14,7 @@ export default function GithubRepoCard({ repo, theme }) {
         <div
           className="publication-card-div"
           key={repo.id}
-          // onClick={() => openRepoinNewTab(repo.url)}
+          onClick={() => repo.url?openRepoinNewTab(repo.url):null}
           style={{ backgroundColor: theme.highlight }}
         >
           <div className="publication-name-div">

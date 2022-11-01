@@ -465,7 +465,7 @@ const experience = {
           company_url: "https://www.weedsngo.org/",
           logo_path: "weeds.png",
           duration: "October 2022 - Present",
-          location: "Chennai, Tamilnadu",
+          location: "Chennai, India",
           description:
             "WEEDS is a non-profit organization started in 1989 to address inherent social problems through a powerful and democratic way which was known as voluntary development activities of downtrodden people.",
           color: "#833457",

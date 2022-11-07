@@ -61,7 +61,7 @@ const skills = {
   data: [
     {
       title: "Software Development",
-      // fileName: "CloudInfraImg",
+      fileName: "ProgrammingImg",
       skills: [
         "⚡ Experience working with multiple languages",
         "⚡ Writing libraries from scratch in C",
@@ -103,6 +103,14 @@ const skills = {
           style: {
             backgroundColor: "#000000",
             color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "GoLang",
+          fontAwesomeClassname: "cib:go",
+          style: {
+            backgroundColor: "transparent",
+            color: "#00A7D0",
           },
         },
         {
@@ -151,7 +159,7 @@ const skills = {
           skillName: "NextJS",
           fontAwesomeClassname: "cib:next-js",
           style: {
-            backgroundColor: "#fff",
+            backgroundColor: "transparent",
             color: "#000000",
           },
         },
@@ -166,7 +174,7 @@ const skills = {
           skillName: "AngularJS",
           fontAwesomeClassname: "simple-icons:angular",
           style: {
-            backgroundColor: "#fff",
+            backgroundColor: "transparent",
             color: "#dc0431",
           },
         },
@@ -194,7 +202,6 @@ const skills = {
         },
       ],
     },
-
     {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
@@ -221,7 +228,7 @@ const skills = {
         },
         {
           skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          fontAwesomeClassname: "logos:pytorch-icon",
           style: {
             backgroundColor: "transparent",
           },
@@ -229,6 +236,47 @@ const skills = {
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
+    {
+      title: "Cloud, DevOps & Automation",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Deploying highly distributed real time applications",
+        "⚡ Automating deployment scenarios",
+        "⚡ Test automation",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "logos-kubernetes",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "logos-jenkins",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Shellscripting",
+          fontAwesomeClassname: "logos:bash-icon",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -494,7 +542,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "my-avatar.png",
+    profile_image_path: "my-avatar.jpg",
     description:
       "Highly available individual with presence over multiple social media networks. My social media presence should be the de-facto standards for cloud applications - Distributed and Higly Available😜",
   },

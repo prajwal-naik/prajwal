@@ -544,7 +544,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "my-avatar.jpg",
     description:
-      "Highly available individual with presence over multiple social media networks. My social media presence should be the de-facto standards for cloud applications - Distributed and Higly Available😜",
+      "Highly available individual with presence over multiple social media networks. My social media presence should be the de-facto standards for cloud applications - Distributed and Highly Available😜",
   },
 
   addressSection: {

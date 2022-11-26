@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Prajwal Naik Portfolio",
     type: "website",
-    url: "https://prajwal-naik-portfolio.vercel.app/", //To change
+    url: "https://praj-naik.vercel.app/#/", //To change
   },
 };
 

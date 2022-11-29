@@ -375,6 +375,15 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "AWS Cloud Practitioner Essentials",
+      subtitle: "- AWS",
+      logo_path: "AWS.jpeg",
+      certificate_link:
+        "https://drive.google.com/file/d/1qsfpCRI5IyFvMZXanpKgaeKg5L25ffAl/view?usp=share_link",
+      alt_name: "AWS",
+      color_code: "#ffffff",
+    },
+    {
       title: "Fullstack Development",
       subtitle: "- Hong Kong University of Science and Technology",
       logo_path: "hkust.png",
@@ -411,12 +420,30 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "Introduction to Ethical Hacking",
+      subtitle: "- PESU I/O",
+      logo_path: "pesuio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/16rYCeLScxCebPkLCA1MF1-N4ZbT7nHsV/view?usp=share_link",
+      alt_name: "pesuio",
+      color_code: "#ffffff",
+    },
+    {
       title: "Python & ML Masterclass",
       subtitle: "- PESU I/O",
       logo_path: "pesuio.png",
       certificate_link:
         "https://drive.google.com/file/d/1O-D2cLNj-cdl2eoOhDWjwHoE-pQ7iUM9/view",
-      alt_name: "Coursera",
+      alt_name: "pesuio",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Introduction to C",
+      subtitle: "- PESU I/O",
+      logo_path: "pesuio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1SXee-_dCLJO-K1Cs4ruKoniXyOT2SaWE/view?usp=share_link",
+      alt_name: "pesuio",
       color_code: "#ffffff",
     },
   ],

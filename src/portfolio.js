@@ -370,7 +370,7 @@ const certifications = {
       subtitle: "- LinkedIn",
       logo_path: "linkedin.png",
       certificate_link:
-        "https://drive.google.com/file/d/1B7XUQjkN2tp01KR4BdbOvFV33leu2ST2/view",
+        "https://www.linkedin.com/learning/certificates/5630916ead42d7b8d8f4cda3d071afe06f7628667372f3e63aaf7e876f563d97",
       alt_name: "Linkedin",
       color_code: "#ffffff",
     },

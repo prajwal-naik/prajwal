@@ -23,9 +23,9 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=4",
-      "name": "Machine Intelligence & Data Analytics Projects",
+      "name": "Sarcasm Detection using Bi-LSTM",
       "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Sarcasm Detection, Employee Attrition Analysis",
+      "description": "Built a model to detect sarasm in tweets, achieving an accuracy of 93%",
       "url": "https://github.com/prajwal-naik/sarcasm-stcai"
     },
     {
@@ -33,17 +33,45 @@
       "name": "Pandemic Spread Database",
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "Pandemic Spread Database with automatic updation on infection status",
-      "url": ""
+      "url": "https://github.com/prajwal-naik/DBMS-Project"
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=6",
+      "name": "Evaluate Bangalore's Green Cover using Hadoop",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Compared Bangalore's tree cover by using image processing and big data methods.",
+      "url": "https://github.com/prajwal-naik/ccbd_green"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=7",
+      "name": "MongoBench",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Benchmark mongoDB using YCSB",
+      "url": "https://github.com/prajwal-naik/ccbd_ycsb"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=8",
+      "name": "Python Compiler",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Covered basic syntax check through lexical analysis, syntax analysis, intermediate code generation and code optimisation",
+      "url": "https://github.com/genos186/CD-Project"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=9",
+      "name": "Weather Prediction using Machine Learning",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Used sequential neural networks to predict weather patterns, achieving an accuracy of 84%",
+      "url": "https://github.com/genos186/CD-Project"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=10",
       "name": "Multiple Frontend Renders",
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "linkedin-clone-steel.vercel.app | rest-countries-api-azure.vercel.app",
       "url": ""
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=7",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=11",
       "name": "FlowTask",
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "A calendar inspired by Google Calendar developed using Flask",

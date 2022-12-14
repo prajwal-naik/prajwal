@@ -404,7 +404,7 @@ const certifications = {
     {
       title: "CompTIA Linux+: Bourne again Shell & Scripting",
       subtitle: "- Hewlett Packard Enterprise",
-      logo_path: "hpe.png",
+      logo_path: "percipio.png",
       certificate_link:
         "https://drive.google.com/file/d/1KtwpTtbGu3C5F0iA7WlgGNLbnqOZwp0e/view?usp=share_link",
       alt_name: "HPE",
@@ -413,7 +413,7 @@ const certifications = {
     {
       title: "Working with Containers: Introduction to Docker",
       subtitle: "- Hewlett Packard Enterprise",
-      logo_path: "hpe.png",
+      logo_path: "percipio.png",
       certificate_link:
         "https://drive.google.com/file/d/1n-Hy9YZuFzYuSncq8lxUrtNoajRgMWIr/view?usp=sharing",
       alt_name: "HPE",

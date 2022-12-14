@@ -402,6 +402,15 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "CompTIA Linux+: Bourne again Shell & Scripting",
+      subtitle: "- Hewlett Packard Enterprise",
+      logo_path: "hpe.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1KtwpTtbGu3C5F0iA7WlgGNLbnqOZwp0e/view?usp=share_link",
+      alt_name: "HPE",
+      color_code: "#ffffff",
+    }
+    {
       title: "R Programming",
       subtitle: "- Johns Hopkins University",
       logo_path: "jhu.png",

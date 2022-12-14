@@ -409,7 +409,7 @@ const certifications = {
         "https://drive.google.com/file/d/1KtwpTtbGu3C5F0iA7WlgGNLbnqOZwp0e/view?usp=share_link",
       alt_name: "HPE",
       color_code: "#ffffff",
-    }
+    },
     {
       title: "R Programming",
       subtitle: "- Johns Hopkins University",

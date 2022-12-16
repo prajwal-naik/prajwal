@@ -415,7 +415,7 @@ const certifications = {
       subtitle: "- Hewlett Packard Enterprise",
       logo_path: "percipio.png",
       certificate_link:
-        "https://drive.google.com/file/d/1KtwpTtbGu3C5F0iA7WlgGNLbnqOZwp0e/view?usp=share_link",
+        "https://drive.google.com/file/d/1lg5fgT0sbQorJkONti0R0ZQ39MEjvJBl/view?usp=share_link",
       alt_name: "HPE",
       color_code: "#ffffff",
     },
@@ -517,7 +517,7 @@ const experience = {
           company: "Hewlett Packard Interprise",
           company_url: "https://www.hpe.com/us/en/home.html/",
           logo_path: "hpe.png",
-          duration: "April 2021 - June 2019",
+          duration: "April 2021 - June 2021",
           location: "Bangalore, Karnataka",
           description:
             "Worked on developing an application to automatically handle edgeline server updates using NLP of driver update notes. This application reduces the human interaction by around 40%.",
@@ -528,7 +528,7 @@ const experience = {
           company: "Centre for Cloud Computing and Big Data",
           company_url: "https://research.pes.edu/cloud-computing-big-data/",
           logo_path: "ccbd-pes.jpg",
-          duration: "June 2020 - Dec 2020",
+          duration: "June 2020 - December 2020",
           location: "PES University, Bangalore",
           description:
             "This is the cutting edge cloud computing research lab of PES University. Initially starting research on distributed SQL systems like Cockroach DB, I moved on to research about the performance of spatial join algorithms using in mapping in most of the location based applications.",
@@ -539,7 +539,7 @@ const experience = {
           company: "PESU Venture Labs",
           company_url: "https://www.pesuventurelabs.com/",
           logo_path: "pvl.png",
-          duration: "June 2020 - Dec 2020",
+          duration: "April 2020 - May 2020",
           location: "PES University, Bangalore",
           description:
             "This is PES University's incubator working on a number of ambitious startups. I worked on the development of an application to streamline the process of college guest lectures by easing the process of matching lecturers to any college's requirements.",

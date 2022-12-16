@@ -411,6 +411,15 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "Storage and Network Virtualization",
+      subtitle: "- Hewlett Packard Enterprise",
+      logo_path: "percipio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1KtwpTtbGu3C5F0iA7WlgGNLbnqOZwp0e/view?usp=share_link",
+      alt_name: "HPE",
+      color_code: "#ffffff",
+    },
+    {
       title: "Working with Containers: Introduction to Docker",
       subtitle: "- Hewlett Packard Enterprise",
       logo_path: "percipio.png",

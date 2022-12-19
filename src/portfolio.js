@@ -393,6 +393,15 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "Certified Kubernetes Application Developer",
+      subtitle: "- Udemy Labs",
+      logo_path: "KodeKloud.png",
+      certificate_link:
+        "https://kodekloud.com/certificate-verification/812FAB7056-81358317D7-7F0BAA1E56/",
+      alt_name: "KodeKloud",
+      color_code: "#ffffff",
+    },
+    {
       title: "Front End Web UI Frameworks & Tools: Bootstrap 4",
       subtitle: "- Hong Kong University of Science and Technology",
       logo_path: "hkust.png",

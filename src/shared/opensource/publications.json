@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=12",
+      "name": "Stack Trace Similarity Detection",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "NLP-based solution to detect stack trace similarity for HPE Aruba engineering division.",
+      "url": ""
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=1",
       "name": "Automated Driver Update Manager for Servers",
       "createdAt": "2020-03-06T16:26:54Z",

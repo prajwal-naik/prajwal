@@ -402,6 +402,15 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "Introduction to Kubernetes",
+      subtitle: "- Percipio",
+      logo_path: "percipio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1droe9p6PlWOQaXskNO87fq4VD6Y5KloW/view?usp=drive_link",
+      alt_name: "HPE",
+      color_code: "#ffffff",
+    },
+    {
       title: "Front End Web UI Frameworks & Tools: Bootstrap 4",
       subtitle: "- Hong Kong University of Science and Technology",
       logo_path: "hkust.png",

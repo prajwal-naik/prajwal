@@ -25,6 +25,8 @@ const greeting = {
   subTitle:
     "A passionate and dedicated engineer who strives to achieve perfection in every line of code. Given a task, rest assured, it's in good hands.",
   resumeLink:
+    "https://drive.google.com/file/d/1YGpHZNUP0X6-LAg262mn0tiNuMdd7u5n/view?usp=sharing",
+  cvLink:
     "https://drive.google.com/file/d/1vqtj4FGG_N1I4o6hNzld84z_OfO5xrwU/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/prajwal-naik",

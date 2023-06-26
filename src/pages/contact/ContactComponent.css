@@ -121,8 +121,12 @@
 }
 
 .resume-btn-div {
+  /* border: 2px solid black; */
   width: 100%;
   display: flex;
+  gap: 20px;
+  /* flex-direction: column; */
+  align-items: center;
   justify-content: center;
 }
 
@@ -152,6 +156,10 @@
 }
 
 @media (max-width: 768px) {
+  .resume-btn-div {
+    gap: 10px;
+  }
+
   .contact-heading-text {
     font-size: 30px;
     margin-top: 0px;

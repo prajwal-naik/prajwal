@@ -377,6 +377,33 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "Deep Learning for NLP",
+      subtitle: "- Percipio",
+      logo_path: "percipio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1DLe1X9bhzXQkN3LhjwcokrB8Dp7T9k98/view",
+      alt_name: "percipio",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Neural Network Achitectures",
+      subtitle: "- Percipio",
+      logo_path: "percipio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1IZeMr_kz11ESav1uSW6KRHIXXfyrhdV8/view",
+      alt_name: "percipio",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Natural Language Processing Libraries",
+      subtitle: "- Percipio",
+      logo_path: "percipio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1eS4YoPA8k0iq481iY6seVvaIOGklZd3G/view",
+      alt_name: "percipio",
+      color_code: "#ffffff",
+    },
+    {
       title: "AWS Cloud Practitioner Essentials",
       subtitle: "- AWS",
       logo_path: "AWS.jpeg",

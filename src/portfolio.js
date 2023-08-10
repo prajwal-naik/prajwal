@@ -368,6 +368,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Natural Language Processing with Classification and Vector Spaces",
+      subtitle: "- DeepLearning.ai",
+      logo_path: "deeplearningai.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/FRVGNH52ZE48",
+      alt_name: "deeplearningai",
+      color_code: "#ffffff",
+    },
+    {
       title: "NLP with Python for Machine Learning Essential Training",
       subtitle: "- LinkedIn",
       logo_path: "linkedin.png",
@@ -377,20 +386,29 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "Deep Learning for NLP",
-      subtitle: "- Percipio",
-      logo_path: "percipio.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1DLe1X9bhzXQkN3LhjwcokrB8Dp7T9k98/view",
-      alt_name: "percipio",
-      color_code: "#ffffff",
-    },
-    {
       title: "Neural Network Achitectures",
       subtitle: "- Percipio",
       logo_path: "percipio.png",
       certificate_link:
         "https://drive.google.com/file/d/1IZeMr_kz11ESav1uSW6KRHIXXfyrhdV8/view",
+      alt_name: "percipio",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Natural Language Processing with Probabilistic Models",
+      subtitle: "- DeepLearning.ai",
+      logo_path: "deeplearningai.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/G88NYREDUEUR",
+      alt_name: "deeplearningai",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Deep Learning for NLP",
+      subtitle: "- Percipio",
+      logo_path: "percipio.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1DLe1X9bhzXQkN3LhjwcokrB8Dp7T9k98/view",
       alt_name: "percipio",
       color_code: "#ffffff",
     },

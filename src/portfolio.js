@@ -59,6 +59,7 @@ const socialMediaLinks = [
   },
 ];
 
+
 const skills = {
   data: [
     {

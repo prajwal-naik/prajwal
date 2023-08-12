@@ -369,6 +369,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Natural Language Processing Specialization",
+      subtitle: "- Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/certificate/WT7KR24X4PV4",
+      alt_name: "coursera",
+      color_code: "#ffffff",
+    },
+    {
       title: "Natural Language Processing with Classification and Vector Spaces",
       subtitle: "- DeepLearning.ai",
       logo_path: "deeplearningai.png",

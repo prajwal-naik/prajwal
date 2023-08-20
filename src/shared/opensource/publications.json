@@ -1,18 +1,18 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=4",
+      "name": "Sarcasm Detection in English Text using Tweets and Headlines",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Built a model to detect sarasm in tweets, achieving an accuracy of 92%",
+      "url": "https://github.com/prajwal-naik/sarcasm-stcai"
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=12",
-      "name": "Stack Trace Similarity Detection",
+      "name": "Optimizing Triage Efficiency with Stack Trace Similarity Analysis",
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "NLP-based solution to detect stack trace similarity for HPE Aruba engineering division.",
       "url": ""
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=1",
-      "name": "Automated Driver Update Manager for Servers",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Automated downloading and packaging of server drivers & dependencies.",
-      "url": "https://github.com/prajwal-naik/hpe-cty"
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=2",
@@ -22,6 +22,13 @@
       "url": "https://github.com/prajwal-naik/pspit-ui"
     },
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=1",
+      "name": "Automated Driver Update Manager for Servers",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Automated downloading and packaging of server drivers & dependencies.",
+      "url": ""
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=3",
       "name": "Library for Handling Integers of Arbitrary Length",
       "createdAt": "2020-03-06T16:26:54Z",
@@ -29,18 +36,25 @@
       "url": "https://github.com/prajwal-naik/intal_library"
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=4",
-      "name": "Sarcasm Detection using Bi-LSTM",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Built a model to detect sarasm in tweets, achieving an accuracy of 93%",
-      "url": "https://github.com/prajwal-naik/sarcasm-stcai"
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=5",
       "name": "Pandemic Spread Database",
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "Pandemic Spread Database with automatic updation on infection status",
       "url": "https://github.com/prajwal-naik/DBMS-Project"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=11",
+      "name": "FlowTask",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "A calendar inspired by Google Calendar developed using Flask",
+      "url": ""
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=8",
+      "name": "Python Compiler",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Covered basic syntax check through lexical analysis, syntax analysis, intermediate code generation and code optimisation",
+      "url": "https://github.com/genos186/CD-Project"
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=6",
@@ -57,13 +71,6 @@
       "url": "https://github.com/prajwal-naik/ccbd_ycsb"
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=8",
-      "name": "Python Compiler",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Covered basic syntax check through lexical analysis, syntax analysis, intermediate code generation and code optimisation",
-      "url": "https://github.com/genos186/CD-Project"
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=9",
       "name": "Weather Prediction using Machine Learning",
       "createdAt": "2020-03-06T16:26:54Z",
@@ -75,13 +82,6 @@
       "name": "Multiple Frontend Renders",
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "linkedin-clone-steel.vercel.app | rest-countries-api-azure.vercel.app",
-      "url": ""
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=11",
-      "name": "FlowTask",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "A calendar inspired by Google Calendar developed using Flask",
       "url": ""
     }
   ]

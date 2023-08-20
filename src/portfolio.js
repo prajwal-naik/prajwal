@@ -59,7 +59,6 @@ const socialMediaLinks = [
   },
 ];
 
-
 const skills = {
   data: [
     {
@@ -378,7 +377,8 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "Natural Language Processing with Classification and Vector Spaces",
+      title:
+        "Natural Language Processing with Classification and Vector Spaces",
       subtitle: "- DeepLearning.ai",
       logo_path: "deeplearningai.png",
       certificate_link:
@@ -569,7 +569,8 @@ const experience = {
           logo_path: "hpe.png",
           duration: "August 2022 - Present",
           location: "Bangalore, Karnataka",
-          description: "Working on automation and 5G deployment tech stack.",
+          description:
+            "Designed and implemented an automation framework to facilitate the deployment of 5G network functions, yielding a substantial reduction in the deployment duration from an excess of one hour to 15 minutes.",
           color: "#00b389",
         },
       ],
@@ -584,7 +585,8 @@ const experience = {
           logo_path: "hpe.png",
           duration: "January 2022 - August 2022",
           location: "Bangalore, Karnataka",
-          description: "Working on 5G and cloud deployment technologies.",
+          description:
+            "Designed an automation method for network function updation process and reversion on live clusters improving reporting on performance of API calls made during updation",
           color: "#00b389",
         },
         {
@@ -595,7 +597,7 @@ const experience = {
           duration: "April 2021 - June 2021",
           location: "Bangalore, Karnataka",
           description:
-            "Worked on developing an application to automatically handle edgeline server updates using NLP of driver update notes. This application reduces the human interaction by around 40%.",
+            "Built an application to intelligently parse release notes of server drivers and automatically update servers.",
           color: "#00b389",
         },
         {

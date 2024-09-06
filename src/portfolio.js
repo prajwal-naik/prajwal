@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Prajwal Naik",
   logo_name: "PrajwalNaik",
-  currentPosition: "Systems/Software Engineer @ Hewlett Packard Enterprise",
+  currentPosition: "Graduate Research Assistant @ University of Colorado Boulder",
   subTitle:
     "A passionate and dedicated engineer who strives to achieve perfection in every line of code. Given a task, rest assured, it's in good hands.",
   resumeLink:
@@ -329,6 +329,18 @@ const competitiveSites = {
 
 const degrees = {
   degrees: [
+    {
+      title: "University of Colorado Boulder",
+      subtitle: "Master of Science in Computer Science",
+      logo_path: "pesu.png",
+      alt_name: "CUB",
+      duration: "2024 - 2026",
+      descriptions: [
+        "⚡ Pursuing MS in CS from CU Boulder.",
+        "⚡ Working as a Research Assistant in the Smead Department of Aerospace.",
+      ],
+      website_link: "http://pes.edu",
+    },
     {
       title: "PES University",
       subtitle: "Bachelor of Technology in Computer Science and Engineering",

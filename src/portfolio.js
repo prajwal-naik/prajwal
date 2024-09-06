@@ -332,14 +332,14 @@ const degrees = {
     {
       title: "University of Colorado Boulder",
       subtitle: "Master of Science in Computer Science",
-      logo_path: "pesu.png",
+      logo_path: "cu.png",
       alt_name: "CUB",
       duration: "2024 - 2026",
       descriptions: [
         "⚡ Pursuing MS in CS from CU Boulder.",
         "⚡ Working as a Research Assistant in the Smead Department of Aerospace.",
       ],
-      website_link: "http://pes.edu",
+      website_link: "https://www.colorado.edu/",
     },
     {
       title: "PES University",

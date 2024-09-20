@@ -47,15 +47,9 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:naikprajwal40@gmail.com",
+    link: "mailto:prajwalknaik7@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/_prajwal.naik_/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 

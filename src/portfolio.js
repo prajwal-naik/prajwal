@@ -687,14 +687,14 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "A004, Sterling Gardens Apartments, Kempapura, Hebbal, Bangalore - 560024",
+      "Boulder, Colorado, 80305",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.9539974,77.6309395,11z/data=!4m2!3m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8951690698",
+    subtitle: "+1(303)-944-5679",
   },
 };
 

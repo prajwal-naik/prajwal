@@ -11,7 +11,7 @@ class ExperienceCard extends Component {
         style={{ border: `1px solid ${experience["color"]}` }}
       >
         <div className="experience-card-logo-div">
-          <a 
+          <a
             href={experience["company_url"]}
             target="_blank"
             rel="noopener noreferrer"
@@ -64,7 +64,9 @@ class ExperienceCard extends Component {
             className="experience-card-description"
             style={{ color: theme.text }}
           >
-            {experience["description"]}
+            {experience["description"]?.map((item, key) => {
+              return <p>{item}</p>;
+            })}
           </p>
         </div>
       </div>

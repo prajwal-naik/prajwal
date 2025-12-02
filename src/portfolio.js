@@ -21,7 +21,8 @@ const seo = {
 const greeting = {
   title: "Prajwal Naik",
   logo_name: "PrajwalNaik",
-  currentPosition: "Graduate Research Assistant @ University of Colorado Boulder",
+  currentPosition:
+    "Graduate Research Assistant @ University of Colorado Boulder",
   subTitle:
     "A passionate and dedicated engineer who strives to achieve perfection in every line of code. Given a task, rest assured, it's in good hands.",
   resumeLink:
@@ -60,7 +61,7 @@ const skills = {
       fileName: "ProgrammingImg",
       skills: [
         "⚡ Experience working with multiple languages",
-        "⚡ Writing libraries from scratch in C",
+        "⚡ Writing libraries from scratch in C/C++",
         "⚡ Implementing ML and AI algorithms in Python",
         "⚡ Developing complex multi-module applications for servers",
       ],
@@ -123,7 +124,7 @@ const skills = {
       title: "Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React/Next",
+        "⚡ Building responsive website front end using React/Next",
         "⚡ High level proficiency in vanilla HTML, CSS and JavaScript",
         "⚡ Creating application backend in Flask",
       ],
@@ -569,64 +570,65 @@ const experience = {
       title: "Employment",
       experiences: [
         {
-          title: "Systems/Software Engineer I",
-          company: "Hewlett Packard Interprise",
+          title: "Fullstack Developer",
+          company: "NSF National AI Institute for Student-AI Teaming",
+          company_url: "https://www.colorado.edu/research/ai-institute/",
+          logo_path: "isat.png",
+          duration: "October 2025 - Present",
+          location: "Boulder, Colorado",
+          description: [
+            "⚡ Developed a full-stack student learning platform using JavaScript and React.js for frontend and Node.js/Express for backend, optimizing content tagging workflow by 30% through improved UX, API efficiency and asynchronous processing.",
+            "⚡ Integrated backend services with AWS DynamoDB for document retrieval and deployed the application on AWS Amplify to achieve 100% automated deployment pipelines.",
+            "⚡ Developed REST API endpoints using Python and FastAPI, implementing MongoDB storage solutions for efficient and secure user data storage and ElasticSearch for low-latency, full-text search and query optimizations.",
+          ],
+          color: "#2c3f7d",
+        },
+        {
+          title: "Software Development Intern",
+          company: "HP Inc.",
+          company_url: "https://www.hp.com/us-en/home.html",
+          logo_path: "hp.png",
+          duration: "May 2025 - August 2025",
+          location: "Fort Collins, Colorado",
+          description: [
+            "⚡ Designed and implemented Windows telemetry agents in C++ to collect and transmit 40+ real-time system performance metrics (CPU, memory, disk I/O, network stats) to AWS S3 via secure data pipelines.",
+            "⚡ Optimized performance by replacing Windows Management Instrumentation (WMI) library calls with DeviceIO control calls and Win32 Native API methods to achieve an agent execution speedup of 87% and reducing CPU Overhead.",
+            "⚡ Designed and developed a Windows Service for artifact catalog management using C++, Win32 API, and Protocol Buffers (Protobuf) to automate artifact deployments on Windows endpoints by interfacing with AWS IoT Core for retrieving device-specific job manifests.",
+          ],
+          color: "#0049d9",
+        },
+        {
+          title: "Fullstack Engineer",
+          company: "Colorado Center for Astrodynamics Research",
+          company_url: "https://www.colorado.edu/ccar/",
+          logo_path: "ccar.png",
+          duration: "August 2024 - July 2025",
+          location: "Boulder, Colorado",
+          description: [
+            "⚡ Engineered a full-stack network anomaly detection platform in Python with inference services deployed on AWS EKS, orchestrated with Terraform, using AWS Lambda for real-time detection and a Flask backend service containerized with Docker.",
+            "⚡ Built scalable Flask backend REST API server with Docker containerization and a Next.js responsive frontend with Firebase authentication for secure user management and network log uploads.",
+            "⚡ Used MongoDB, Firestore for network data storage, integrating an XGBoost model achieving 80% accuracy in classifying anomalous browsing patterns and potential foreign network manipulation attempts.",
+            "⚡ Led a team of 3 to develop a fleet of decoy browser bots leveraging Python AsyncIO and Sockets Interface to retrieve ML-inferred mission plans from the AWS S3 cloud, and simulate human-like web-browsing patterns for evasion from network operators.",
+            "⚡ Orchestrated task distribution using AWS SQS and implemented CI/CD with GitHub Actions, with testing using PyTest and JUnit.",
+          ],
+          color: "#000000",
+        },
+        {
+          title: "Software Development Engineer",
+          company: "Hewlett Packard Enterprise",
           company_url: "https://www.hpe.com/us/en/home.html/",
           logo_path: "hpe.png",
-          duration: "August 2022 - Present",
+          duration: "January 2022 - Present",
           location: "Bangalore, Karnataka",
-          description:
-            "Designed and implemented an automation framework to facilitate the deployment of 5G network functions, yielding a substantial reduction in the deployment duration from an excess of one hour to 15 minutes.",
+          description: [
+            "⚡ Developed Java 5G microservices using Spring Boot and an infrastructure provisioning framework, using Kubernetes-based OpenShift clusters, Docker, Jenkins CI and Ansible for deployment automation, achieving a reduction in deployment times by 75%.",
+            "⚡ Developed a web-based internal full-stack tool (React UI + Spring Boot REST API backend) integrated with AWS S3 to store and reuse deployment configurations, improving developer workflow and productivity across teams.",
+            "⚡ Automated HPE EdgeLine server driver updates by parsing release notes using a Python-based, NLP-powered tool using Spacy’s NER model, and a header-to-content proximity based PDF parsing algorithm to reduce update latency by 50%.",
+            "⚡ Led the development of a one-click solution with a Next.js dashboard for server update monitoring, a Flask backend and Selenium web crawlers to archive driver packages across 50+ vendor websites, and reported the health of the systems after updates.",
+            "⚡ Prototyped a PoC for program crash log classification using BERT + KNN ensemble and classical methods, achieving 80% accuracy. Deployed the inference pipeline on AWS Lambda for scalable, on-demand processing, integrating with AWS S3 for log storage and DynamoDB for maintaining classification metadata and user annotations.",
+            "⚡ Built a React.js web interface enabling crash log uploads and visual inspection of classification results. Designed a Flask REST API backend to orchestrate preprocessing and inference requests containerized via Docker and deployed on AWS ECS.",
+          ],
           color: "#00b389",
-        },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Research and Development Intern",
-          company: "Hewlett Packard Interprise",
-          company_url: "https://www.hpe.com/us/en/home.html/",
-          logo_path: "hpe.png",
-          duration: "January 2022 - August 2022",
-          location: "Bangalore, Karnataka",
-          description:
-            "Designed an automation method for network function updation process and reversion on live clusters improving reporting on performance of API calls made during updation",
-          color: "#00b389",
-        },
-        {
-          title: "Project Intern",
-          company: "Hewlett Packard Interprise",
-          company_url: "https://www.hpe.com/us/en/home.html/",
-          logo_path: "hpe.png",
-          duration: "April 2021 - June 2021",
-          location: "Bangalore, Karnataka",
-          description:
-            "Built an application to intelligently parse release notes of server drivers and automatically update servers.",
-          color: "#00b389",
-        },
-        {
-          title: "Research Intern",
-          company: "Centre for Cloud Computing and Big Data",
-          company_url: "https://research.pes.edu/cloud-computing-big-data/",
-          logo_path: "ccbd-pes.jpg",
-          duration: "June 2020 - December 2020",
-          location: "PES University, Bangalore",
-          description:
-            "This is the cutting edge cloud computing research lab of PES University. Initially starting research on distributed SQL systems like Cockroach DB, I moved on to research about the performance of spatial join algorithms using in mapping in most of the location based applications.",
-          color: "#3e7f97",
-        },
-        {
-          title: "Product Development Intern",
-          company: "PESU Venture Labs",
-          company_url: "https://www.pesuventurelabs.com/",
-          logo_path: "pvl.png",
-          duration: "April 2020 - May 2020",
-          location: "PES University, Bangalore",
-          description:
-            "This is PES University's incubator working on a number of ambitious startups. I worked on the development of an application to streamline the process of college guest lectures by easing the process of matching lecturers to any college's requirements.",
-          color: "#fccc3c",
         },
       ],
     },
@@ -640,8 +642,9 @@ const experience = {
           logo_path: "psf.png",
           duration: "September 2021 - Present",
           location: "Bangalore, India",
-          description:
-            "Project Sitara Foundation is a not-profit organisation working towards enabling children from underserved communities in Karnataka, India to become self-sufficient.",
+          description: [
+            "⚡ Project Sitara Foundation is a not-profit organisation working towards enabling children from underserved communities in Karnataka, India to become self-sufficient.",
+          ],
           color: "#4285F4",
         },
         {
@@ -651,8 +654,9 @@ const experience = {
           logo_path: "weeds.png",
           duration: "October 2022 - Present",
           location: "Chennai, India",
-          description:
-            "WEEDS is a non-profit organization started in 1989 to address inherent social problems through a powerful and democratic way which was known as voluntary development activities of downtrodden people.",
+          description: [
+            "⚡ WEEDS is a non-profit organization started in 1989 to address inherent social problems through a powerful and democratic way which was known as voluntary development activities of downtrodden people.",
+          ],
           color: "#833457",
         },
       ],
@@ -686,8 +690,7 @@ const contactPageData = {
 
   addressSection: {
     title: "Address",
-    subtitle:
-      "Boulder, Colorado, 80305",
+    subtitle: "Boulder, Colorado, 80305",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.9539974,77.6309395,11z/data=!4m2!3m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0",
